@@ -1,0 +1,10 @@
+.Box.Box--responsive.hx_Box--firstRowRounded0,
+.paginate-container.d-none.d-sm-flex.flex-sm-justify-center,
+.mt-3.text-center.color-fg-muted,
+.d-flex.flex-justify-between.mb-md-3.flex-column-reverse.flex-md-row.flex-items-end {
+  display: none !important;
+}
+
+.clearfix.new-discussion-timeline.js-check-all-container.container-xl.px-3.px-md-4.px-lg-5.mt-4 {
+  max-width: unset !important;
+}

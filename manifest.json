@@ -1,0 +1,12 @@
+{
+  "name": "Inventory board",
+  "description": "Fixes gihub team board with zenhub extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://github.schibsted.io/inventory/inventory-team/*"],
+      "css": ["index.css"]
+    }
+  ]
+}
